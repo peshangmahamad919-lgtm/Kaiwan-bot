@@ -1,0 +1,4 @@
+pyrogram==2.0.106
+python-telegram-bot==22.8
+aiosqlite==0.22.1
+TgCrypto==1.2.5
